@@ -1,31 +1,14 @@
-"projects":[{
-        "id": "1",
-        "title": "Stigma",
-        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
-    },
-    {
-        "id": "2",
-        "title": "Stigma",
-        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
-        "category": "Poster Design"
-    },
-    {
-        "id": "3",
-        "title": "Stigma",
-        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
-        "category": "Poster Design"
-    },
-    {
-        "id": "4",
-        "title": "IST SITE",
-        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
-        "href": "projects/IST",
-        "category": "Web Development"
-    },
-    {
-        "id": "5",
-        "title": "Haiti",
-        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
-        "href": "projects/Haiti",
-        "category": "Web Development"
-    }]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
