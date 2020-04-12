@@ -1,0 +1,36 @@
+"projects":[{
+        "id": "1",
+        "title": "Stigma",
+        "img": "poster1.png",
+        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
+    },
+    {
+        "id": "2",
+        "title": "Stigma",
+        "img": "poster2.png",
+        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
+        "category": "Poster Design"
+    },
+    {
+        "id": "3",
+        "title": "Stigma",
+        "img": "poster3.png",
+        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
+        "category": "Poster Design"
+    },
+    {
+        "id": "4",
+        "title": "IST SITE",
+        "img": "ist.png",
+        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
+        "href": "projects/IST",
+        "category": "Web Development"
+    },
+    {
+        "id": "5",
+        "title": "Haiti",
+        "img": "haiti.png",
+        "details": "This project was completed for my Client program course were the objective was to grab data from an API and recreate our departments website using Jquery.",
+        "href": "projects/Haiti",
+        "category": "Web Development"
+    }]
